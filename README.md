@@ -20,3 +20,9 @@ you can hold the keyboard shortcut while hovering over the object to get the sam
 Enjoy!
 
 ## Planned updates for the project
+
+1. Youtube video showcasing the project
+1. Add Wall+Weight Maze Algorithms (constructs maze made with either walls or weights)
+1. Add sounds (maybe music too)
+1. Add more animations + particle effects
+1. Add nodes with edges that have their specific weight to it (instead of the 2D grid) 
