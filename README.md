@@ -2,6 +2,7 @@
 Welcome to my Unity project PathFinder Unity! I hope you have as much fun using this application as I had building it. I've Uploaded all the Scripts that I wrote for the project in the repository. 
 ## Set Up
 This is Windows Version of the application if you are on Mac please use this repository instead https://github.com/nikolozc/PathFinderUnityMac
+
 Download the Zip file and run the 'PathFinderUnity.exe' file, enjoy!
 ## Quick Tutorial
 There is a tutorial that will guide you though the app, but I've decided to include it here aswell. 
